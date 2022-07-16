@@ -1,0 +1,14 @@
+.history{
+    display: flex;
+    margin: 10px 10px;
+}
+#history-text{
+    width: 40%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+#history-photo{
+    width: 35%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
